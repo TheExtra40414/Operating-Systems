@@ -1,1 +1,2 @@
 # Operating-Systems
+One operating system function on windows 10 is the start button/menu. It may seem pretty obvious, but with this button you can have access to every new program installed. You can also search for all software and system applications through there.
