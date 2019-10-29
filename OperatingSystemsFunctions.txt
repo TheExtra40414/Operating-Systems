@@ -1,2 +1,3 @@
 # Operating-Systems
 One operating system function on windows 10 is the start button/menu. It may seem pretty obvious, but with this button you can have access to every new program installed. You can also search for all software and system applications through there.
+Another very useful operating system function in windows 10 is the Task bar. This allows you to add icons to it, which are shortcuts to your most used applications in any order you like. Once those icons are pinned to the task bar you can right click on the icons and they will bring up a small window with basic functions to make the shortcut even more useful.
